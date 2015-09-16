@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:53:48.593829
+#+DATE: 2015-08-29 17:53:49.018485
 #+PROPERTY: ID KR5i0056
-#+TITLE:天仙金丹心法 Tianxian Jindan Xinfa
+#+TITLE:天仙金丹心法
+#+PROPERTY: pinyin Tianxian Jindan Xinfa
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0056_01p001a>¶
 重刋道藏輯要¶
-　金丹心法目錄¶
+金丹心法目錄¶
 　　第一立志¶
 　　第二端品¶
 　　第三悔過¶
@@ -24,4 +25,4 @@
 　　第十四行功¶
 　　第十五面壁¶
 　　第十六飛昇（YP_Zは無し）¶
-¶	
+¶
